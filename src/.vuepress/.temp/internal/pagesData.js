@@ -49,6 +49,14 @@ export const pagesData = {
   "v-c935b31e": () => import(/* webpackChunkName: "v-c935b31e" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2020-09-27-简易单片机开发.html.js").then(({ data }) => data),
   // path: /posts/2021-05-17-%E5%8F%82%E4%BC%9A%E4%BA%A4%E6%B5%81.html
   "v-63f8a89e": () => import(/* webpackChunkName: "v-63f8a89e" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2021-05-17-参会交流.html.js").then(({ data }) => data),
+  // path: /posts/2022-01-16-%E6%88%91%E5%BA%94%E8%AF%A5%E5%9C%A8%E7%A7%91%E7%A0%94%E7%9A%84%E9%81%93%E8%B7%AF%E4%B8%8A%E8%B5%B0%E4%B8%8D%E8%BF%9C.html
+  "v-3738d51e": () => import(/* webpackChunkName: "v-3738d51e" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2022-01-16-我应该在科研的道路上走不远.html.js").then(({ data }) => data),
+  // path: /posts/2022-01-20-%E5%A6%82%E4%BD%95%E5%9C%A8%E8%89%B0%E9%9A%BE%E6%97%B6%E6%9C%9F%E4%BF%9D%E6%8C%81%E5%BF%AB%E4%B9%90.html
+  "v-f31cfafe": () => import(/* webpackChunkName: "v-f31cfafe" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2022-01-20-如何在艰难时期保持快乐.html.js").then(({ data }) => data),
+  // path: /posts/2023-08-12-%E5%86%99%E4%BD%9C%E9%A3%8E%E6%A0%BC%E6%8C%87%E5%8D%97.html
+  "v-68300e83": () => import(/* webpackChunkName: "v-68300e83" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-12-写作风格指南.html.js").then(({ data }) => data),
+  // path: /posts/2023-08-12-%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7.html
+  "v-65b8c3a2": () => import(/* webpackChunkName: "v-65b8c3a2" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-12-博客升级.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"F:/alan-blog/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /posts/
@@ -85,10 +93,16 @@ export const pagesData = {
   "v-0321d7a4": () => import(/* webpackChunkName: "v-0321d7a4" */"F:/alan-blog/src/.vuepress/.temp/pages/category/兴趣爱好/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%8D%95%E7%89%87%E6%9C%BA/
   "v-200f8522": () => import(/* webpackChunkName: "v-200f8522" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/单片机/index.html.js").then(({ data }) => data),
+  // path: /category/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/
+  "v-67483220": () => import(/* webpackChunkName: "v-67483220" */"F:/alan-blog/src/.vuepress/.temp/pages/category/学习笔记/index.html.js").then(({ data }) => data),
+  // path: /tag/%E5%BF%83%E7%90%86%E5%AD%A6/
+  "v-2aa3f588": () => import(/* webpackChunkName: "v-2aa3f588" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/心理学/index.html.js").then(({ data }) => data),
   // path: /en/category/
   "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"F:/alan-blog/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
-  // path: /tag/%E7%BC%96%E7%A8%8B/
-  "v-e3945f6c": () => import(/* webpackChunkName: "v-e3945f6c" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/编程/index.html.js").then(({ data }) => data),
+  // path: /tag/%E5%86%99%E4%BD%9C/
+  "v-7b7538dc": () => import(/* webpackChunkName: "v-7b7538dc" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/写作/index.html.js").then(({ data }) => data),
+  // path: /tag/vuepress/
+  "v-ed16b278": () => import(/* webpackChunkName: "v-ed16b278" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/vuepress/index.html.js").then(({ data }) => data),
   // path: /en/tag/
   "v-075c6c62": () => import(/* webpackChunkName: "v-075c6c62" */"F:/alan-blog/src/.vuepress/.temp/pages/en/tag/index.html.js").then(({ data }) => data),
 }

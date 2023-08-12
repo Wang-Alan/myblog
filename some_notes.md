@@ -11,20 +11,14 @@
   },
 ```
 
-## 预览与编译
+## 预览
 
 ```{cmd}
 yarn docs:dev
-yarn docs:build
 ```
 
-## 提交
+## 拉取
 
 ```{cmd}
-cd src/.vuepress/dist
-
-git init
-git add .
-git commit -m "更新了一些内容"
-git push -f git@github.com:Wang-Alan/myblog.git master
+git pull origin master
 ```
