@@ -57,6 +57,8 @@ export const pagesData = {
   "v-68300e83": () => import(/* webpackChunkName: "v-68300e83" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-12-写作风格指南.html.js").then(({ data }) => data),
   // path: /posts/2023-08-12-%E5%8D%9A%E5%AE%A2%E5%8D%87%E7%BA%A7.html
   "v-65b8c3a2": () => import(/* webpackChunkName: "v-65b8c3a2" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-12-博客升级.html.js").then(({ data }) => data),
+  // path: /posts/2023-08-13-%E8%AF%BB%E3%80%8A%E5%B9%B2%E6%A0%A1%E5%85%AD%E8%AE%B0%E3%80%8B%E6%9C%89%E6%84%9F.html
+  "v-bea27e0c": () => import(/* webpackChunkName: "v-bea27e0c" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-13-读《干校六记》有感.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"F:/alan-blog/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /posts/
@@ -97,10 +99,12 @@ export const pagesData = {
   "v-67483220": () => import(/* webpackChunkName: "v-67483220" */"F:/alan-blog/src/.vuepress/.temp/pages/category/学习笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%BF%83%E7%90%86%E5%AD%A6/
   "v-2aa3f588": () => import(/* webpackChunkName: "v-2aa3f588" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/心理学/index.html.js").then(({ data }) => data),
-  // path: /en/category/
-  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"F:/alan-blog/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
+  // path: /category/%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0/
+  "v-0a695906": () => import(/* webpackChunkName: "v-0a695906" */"F:/alan-blog/src/.vuepress/.temp/pages/category/读书笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%86%99%E4%BD%9C/
   "v-7b7538dc": () => import(/* webpackChunkName: "v-7b7538dc" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/写作/index.html.js").then(({ data }) => data),
+  // path: /en/category/
+  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"F:/alan-blog/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
   // path: /tag/vuepress/
   "v-ed16b278": () => import(/* webpackChunkName: "v-ed16b278" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/vuepress/index.html.js").then(({ data }) => data),
   // path: /en/tag/
