@@ -148,39 +148,39 @@ export default hopeTheme({
 
     // uncomment these if you want a PWA
     pwa: {
-      favicon: "/public/av.png",
+      favicon: "/src/.vuepress/public/av.png",
       cacheHTML: true,
       cachePic: true,
       appendBase: true,
       apple: {
-        icon: "/public/av.png",
+        icon: "/src/.vuepress/public/av.png",
         statusBarColor: "black",
       },
       msTile: {
-        image: "/public/av.png",
+        image: "/src/.vuepress/public/av.png",
         color: "#ffffff",
       },
       manifest: {
         icons: [
           {
-            src: "/public/av.png",
+            src: "/src/.vuepress/public/av.png",
             sizes: "512x512",
             purpose: "maskable",
             type: "image/png",
           },
           {
-            src: "/public/av.png",
+            src: "/src/.vuepress/public/av.png",
             sizes: "192x192",
             purpose: "maskable",
             type: "image/png",
           },
           {
-            src: "/public/av.png",
+            src: "/src/.vuepress/public/av.png",
             sizes: "512x512",
             type: "image/png",
           },
           {
-            src: "/public/av.png",
+            src: "/src/.vuepress/public/av.png",
             sizes: "192x192",
             type: "image/png",
           },
@@ -192,7 +192,7 @@ export default hopeTheme({
             url: "/",
             icons: [
               {
-                src: "/public/av.png",
+                src: "/src/.vuepress/public/av.png",
                 sizes: "192x192",
                 purpose: "maskable",
                 type: "image/png",
