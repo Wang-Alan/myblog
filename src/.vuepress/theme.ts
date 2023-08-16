@@ -184,7 +184,7 @@ export default hopeTheme({
             ],
           },
         ],
-        theme_color: "#cdcdcd",
+        themeColor: "#cdcdcd",
       },
     },
   },
