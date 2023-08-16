@@ -21,4 +21,4 @@ article: false
 
 感兴趣可以添加微信交流 ~
 
-![微信名片二维码](assets/wx.jpg =460x650)
+![微信名片二维码](assets/wx.jpg)
