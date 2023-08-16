@@ -153,37 +153,21 @@ export default hopeTheme({
       cachePic: true,
       appendBase: true,
       apple: {
-        icon: "/src/.vuepress/public/av.png",
+        icon: "/src/.vuepress/public/av.ico",
         statusBarColor: "black",
       },
       msTile: {
-        image: "/src/.vuepress/public/av.png",
+        image: "/src/.vuepress/public/av.ico",
         color: "#ffffff",
       },
       manifest: {
         icons: [
           {
-            src: "/src/.vuepress/public/av.png",
-            sizes: "512x512",
+            src: "/src/.vuepress/public/av.ico",
+            sizes: "256x256",
             purpose: "maskable",
-            type: "image/png",
-          },
-          {
-            src: "/src/.vuepress/public/av.png",
-            sizes: "192x192",
-            purpose: "maskable",
-            type: "image/png",
-          },
-          {
-            src: "/src/.vuepress/public/av.png",
-            sizes: "512x512",
-            type: "image/png",
-          },
-          {
-            src: "/src/.vuepress/public/av.png",
-            sizes: "192x192",
-            type: "image/png",
-          },
+            type: "image/x-icon",
+          }
         ],
         shortcuts: [
           {
@@ -200,6 +184,7 @@ export default hopeTheme({
             ],
           },
         ],
+        theme_color: "#cdcdcd",
       },
     },
   },
