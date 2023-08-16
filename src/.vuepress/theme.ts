@@ -149,11 +149,10 @@ export default hopeTheme({
     // uncomment these if you want a PWA
     pwa: {
       favicon: "/src/.vuepress/public/av.ico",
-      cacheHTML: true,
+      cacheHTML: false,
       cachePic: true,
       appendBase: true,
-      theme_color: "#f7f7f7",
-      themeColor: "#f7f7f7",
+      themeColor: "#ffffff",
       apple: {
         icon: "/src/.vuepress/public/av.ico",
         statusBarColor: "black",
