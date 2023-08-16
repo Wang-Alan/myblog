@@ -17,9 +17,11 @@ export default hopeTheme({
 
   logo: "/av.png",
 
-  // repo: "vuepress-theme-hope/vuepress-theme-hope",
-
+  repo: "Wang-Alan/myblog",
+  editLink: true,
+  contributors: false,
   docsDir: "src",
+  docsBranch: "master"
 
   blog: {
     medias: {
