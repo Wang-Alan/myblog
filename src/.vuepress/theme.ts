@@ -152,7 +152,7 @@ export default hopeTheme({
       cacheHTML: true,
       cachePic: true,
       appendBase: true,
-      themeColor: "#f7f7f7",
+      theme_color: "#f7f7f7",
       apple: {
         icon: "/src/.vuepress/public/av.ico",
         statusBarColor: "black",
