@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-8935fe94.js";const s={},c=_("p",null,"618投稿的愿望注定要破灭了。",-1),n=_("p",null,"第一篇论文投稿时间也不是我一个人能确定的啊！",-1),l=_("p",null,"鸽就鸽了......",-1),r=[c,n,l];function a(i,d){return t(),o("div",null,r)}const p=e(s,[["render",a],["__file","2019-06-18-鸽了鸽了.html.vue"]]);export{p as default};
