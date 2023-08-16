@@ -1,1 +1,0 @@
-import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-f9c6270a.js";const c={},s=o("p",null,"酒是个好东西呀！",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(c,[["render",r],["__file","2018-10-28-喝了酒的师兄贼帅.html.vue"]]);export{m as default};
