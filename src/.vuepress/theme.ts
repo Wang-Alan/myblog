@@ -21,7 +21,7 @@ export default hopeTheme({
   editLink: true,
   contributors: false,
   docsDir: "src",
-  docsBranch: "master"
+  docsBranch: "master",
 
   blog: {
     medias: {
