@@ -1,0 +1,1 @@
+import{_}from"./plugin-vue_export-helper-c27b6911.js";import{o as e,c as t,a as o}from"./app-83e95bab.js";const c={},s=o("p",null,"只有当丧失自由的时候，才能感受到自由的可贵。",-1),n=[s];function r(a,l){return e(),t("div",null,n)}const m=_(c,[["render",r],["__file","2020-02-06-我要为自由高歌.html.vue"]]);export{m as default};
