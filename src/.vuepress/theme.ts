@@ -148,7 +148,7 @@ export default hopeTheme({
 
     // uncomment these if you want a PWA
     pwa: {
-      favicon: "/src/.vuepress/public/av.png",
+      favicon: "/src/.vuepress/public/av.ico",
       cacheHTML: true,
       cachePic: true,
       appendBase: true,
@@ -189,10 +189,10 @@ export default hopeTheme({
           {
             name: "Alan’s Blog",
             short_name: "Alan",
-            url: "/",
+            url: "/src/.vuepress/public",
             icons: [
               {
-                src: "/src/.vuepress/public/av.png",
+                src: "av.png",
                 sizes: "192x192",
                 purpose: "maskable",
                 type: "image/png",
