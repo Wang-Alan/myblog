@@ -12,7 +12,7 @@ projects:
   - icon: book
     name: 文章
     desc: 发表的论文等
-    link: /about/
+    link: https://www.yuque.com/alan-wang/wx1qte/yvr8dq3riyfr89kf
 
   - icon: book
     name: 项目

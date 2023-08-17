@@ -7,6 +7,7 @@ sidebar: false
 toc: false
 author: Mr. Alan
 article: false
+pageInfo: false
 ---
 # 关于我
 
