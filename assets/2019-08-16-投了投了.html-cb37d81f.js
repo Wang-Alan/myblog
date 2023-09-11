@@ -1,1 +1,0 @@
-import{_ as e}from"./plugin-vue_export-helper-c27b6911.js";import{o as t,c as o,a as _}from"./app-b4cc88b1.js";const s={},c=_("p",null,"虽然没赶上618，但是我赶上了816啊！",-1),n=_("p",null,"都是电商的好日子。",-1),l=_("p",null,"双11会发生些什么呢？也许什么都不会发生。",-1),r=[c,n,l];function a(i,d){return t(),o("div",null,r)}const p=e(s,[["render",a],["__file","2019-08-16-投了投了.html.vue"]]);export{p as default};
