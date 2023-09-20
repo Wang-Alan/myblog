@@ -147,45 +147,45 @@ export default hopeTheme({
     },
 
     // uncomment these if you want a PWA
-    pwa: {
-      favicon: "/src/.vuepress/public/av.ico",
-      cacheHTML: false,
-      cachePic: true,
-      appendBase: true,
-      themeColor: "#ffffff",
-      apple: {
-        icon: "/src/.vuepress/public/av.ico",
-        statusBarColor: "black",
-      },
-      msTile: {
-        image: "/src/.vuepress/public/av.ico",
-        color: "#ffffff",
-      },
-      manifest: {
-        icons: [
-          {
-            src: "/src/.vuepress/public/av.ico",
-            sizes: "256x256",
-            purpose: "maskable",
-            type: "image/x-icon",
-          }
-        ],
-        shortcuts: [
-          {
-            name: "Alan’s Blog",
-            short_name: "Alan",
-            url: "/src/.vuepress/public",
-            icons: [
-              {
-                src: "av.png",
-                sizes: "192x192",
-                purpose: "maskable",
-                type: "image/png",
-              },
-            ],
-          },
-        ],
-      },
-    },
+    // pwa: {
+    //   favicon: "/src/.vuepress/public/av.ico",
+    //   cacheHTML: false,
+    //   cachePic: true,
+    //   appendBase: true,
+    //   themeColor: "#ffffff",
+    //   apple: {
+    //     icon: "/src/.vuepress/public/av.ico",
+    //     statusBarColor: "black",
+    //   },
+    //   msTile: {
+    //     image: "/src/.vuepress/public/av.ico",
+    //     color: "#ffffff",
+    //   },
+    //   manifest: {
+    //     icons: [
+    //       {
+    //         src: "/src/.vuepress/public/av.ico",
+    //         sizes: "256x256",
+    //         purpose: "maskable",
+    //         type: "image/x-icon",
+    //       }
+    //     ],
+    //     shortcuts: [
+    //       {
+    //         name: "Alan’s Blog",
+    //         short_name: "Alan",
+    //         url: "/src/.vuepress/public",
+    //         icons: [
+    //           {
+    //             src: "av.png",
+    //             sizes: "192x192",
+    //             purpose: "maskable",
+    //             type: "image/png",
+    //           },
+    //         ],
+    //       },
+    //     ],
+    //   },
+    // },
   },
 });
