@@ -69,6 +69,24 @@ export const pagesData = {
   "v-5989e7be": () => import(/* webpackChunkName: "v-5989e7be" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-17-指南.html.js").then(({ data }) => data),
   // path: /posts/2023-08-29-%E5%81%9A%E7%B3%BB%E7%BB%9F%E7%9A%84%E4%B8%80%E4%BA%9B%E6%80%9D%E8%80%83.html
   "v-5f4b1afc": () => import(/* webpackChunkName: "v-5f4b1afc" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-29-做系统的一些思考.html.js").then(({ data }) => data),
+  // path: /posts/2023-08-31-%E3%80%8A%E6%B5%AA%E6%BD%AE%E4%B9%8B%E5%B7%85%E3%80%8B%E8%AF%BB%E4%B9%A6%E7%AC%94%E8%AE%B0.html
+  "v-0eb163e2": () => import(/* webpackChunkName: "v-0eb163e2" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-08-31-《浪潮之巅》读书笔记.html.js").then(({ data }) => data),
+  // path: /posts/2023-09-01-%E5%BC%80%E5%A7%8B%E5%AF%B9%E7%88%B1%E6%83%85%E6%9C%89%E7%82%B9%E5%84%BF%E6%9C%9F%E5%BE%85.html
+  "v-34f1c748": () => import(/* webpackChunkName: "v-34f1c748" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-09-01-开始对爱情有点儿期待.html.js").then(({ data }) => data),
+  // path: /posts/2023-09-01-%E8%B5%B0%E5%88%B0%E6%AF%95%E4%B8%9A%E8%BE%B9%E4%B8%8A.html
+  "v-6307c154": () => import(/* webpackChunkName: "v-6307c154" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-09-01-走到毕业边上.html.js").then(({ data }) => data),
+  // path: /posts/2023-09-09-%E5%96%9D%E4%BA%86%E9%85%92%E7%9A%84%E5%B8%88%E5%85%84%E8%B4%BC%E5%B8%853.html
+  "v-593567e2": () => import(/* webpackChunkName: "v-593567e2" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-09-09-喝了酒的师兄贼帅3.html.js").then(({ data }) => data),
+  // path: /posts/2023-09-10-%E6%9C%89%E4%BA%BA%E6%B4%BB%E7%9D%80%E5%B0%B1%E5%8F%AA%E6%98%AF%E6%B4%BB%E7%9D%80%EF%BC%8C%E6%88%91%E5%B7%B2%E7%BB%8F%E5%BE%88%E5%A5%BD%E4%BA%86.html
+  "v-45ce8d6b": () => import(/* webpackChunkName: "v-45ce8d6b" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-09-10-有人活着就只是活着，我已经很好了.html.js").then(({ data }) => data),
+  // path: /posts/2023-09-28-%E7%A5%B8%E7%A6%8F%E7%9B%B8%E4%BE%9D.html
+  "v-4ea80c6e": () => import(/* webpackChunkName: "v-4ea80c6e" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-09-28-祸福相依.html.js").then(({ data }) => data),
+  // path: /posts/2023-10-16-%E5%AF%B9%E6%97%A5%E6%9C%AC%E7%9A%84%E5%88%9D%E5%8D%B0%E8%B1%A1.html
+  "v-dbc719e8": () => import(/* webpackChunkName: "v-dbc719e8" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-10-16-对日本的初印象.html.js").then(({ data }) => data),
+  // path: /posts/2023-10-18-%E6%89%93%E7%AE%97%E5%B9%B6%E5%BC%80%E5%A7%8B%E5%81%A5%E8%BA%AB.html
+  "v-246e85f3": () => import(/* webpackChunkName: "v-246e85f3" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-10-18-打算并开始健身.html.js").then(({ data }) => data),
+  // path: /posts/2023-10-18-%E8%AE%B0%E4%BA%8B%E4%B8%A4%E5%88%99.html
+  "v-108d68a7": () => import(/* webpackChunkName: "v-108d68a7" */"F:/alan-blog/src/.vuepress/.temp/pages/posts/2023-10-18-记事两则.html.js").then(({ data }) => data),
   // path: /404.html
   "v-3706649a": () => import(/* webpackChunkName: "v-3706649a" */"F:/alan-blog/src/.vuepress/.temp/pages/404.html.js").then(({ data }) => data),
   // path: /posts/
@@ -113,10 +131,12 @@ export const pagesData = {
   "v-0a695906": () => import(/* webpackChunkName: "v-0a695906" */"F:/alan-blog/src/.vuepress/.temp/pages/category/读书笔记/index.html.js").then(({ data }) => data),
   // path: /tag/%E5%86%99%E4%BD%9C/
   "v-7b7538dc": () => import(/* webpackChunkName: "v-7b7538dc" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/写作/index.html.js").then(({ data }) => data),
-  // path: /en/category/
-  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"F:/alan-blog/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
+  // path: /category/%E7%95%99%E5%AD%A6%E7%94%9F%E6%B4%BB%E8%AE%B0%E5%BD%95/
+  "v-0d2211e3": () => import(/* webpackChunkName: "v-0d2211e3" */"F:/alan-blog/src/.vuepress/.temp/pages/category/留学生活记录/index.html.js").then(({ data }) => data),
   // path: /tag/vuepress/
   "v-ed16b278": () => import(/* webpackChunkName: "v-ed16b278" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/vuepress/index.html.js").then(({ data }) => data),
+  // path: /en/category/
+  "v-5decfa84": () => import(/* webpackChunkName: "v-5decfa84" */"F:/alan-blog/src/.vuepress/.temp/pages/en/category/index.html.js").then(({ data }) => data),
   // path: /tag/%E6%A8%A1%E5%9E%8B/
   "v-b0e6c386": () => import(/* webpackChunkName: "v-b0e6c386" */"F:/alan-blog/src/.vuepress/.temp/pages/tag/模型/index.html.js").then(({ data }) => data),
   // path: /tag/%E7%B3%BB%E7%BB%9F/

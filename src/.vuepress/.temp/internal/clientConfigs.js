@@ -8,8 +8,7 @@ import clientConfig6 from 'F:/alan-blog/node_modules/@vuepress/plugin-theme-data
 import clientConfig7 from 'F:/alan-blog/node_modules/vuepress-plugin-copy-code2/lib/client/config.js'
 import clientConfig8 from 'F:/alan-blog/src/.vuepress/.temp/md-enhance/config.js'
 import clientConfig9 from 'F:/alan-blog/node_modules/vuepress-plugin-photo-swipe/lib/client/config.js'
-import clientConfig10 from 'F:/alan-blog/src/.vuepress/.temp/pwa2/config.js'
-import clientConfig11 from 'F:/alan-blog/src/.vuepress/.temp/theme-hope/config.js'
+import clientConfig10 from 'F:/alan-blog/src/.vuepress/.temp/theme-hope/config.js'
 
 export const clientConfigs = [
   clientConfig0,
@@ -23,5 +22,4 @@ export const clientConfigs = [
   clientConfig8,
   clientConfig9,
   clientConfig10,
-  clientConfig11,
 ]
